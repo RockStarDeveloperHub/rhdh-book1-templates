@@ -42,7 +42,7 @@ spec:
           title: Cluster Id
           type: string
           description: Id of the cluster
-          default: apps.rosa.menat-tfc.k5n2.p3.openshiftapps.com
+          default: apps.cluster-gxmxq.sandbox92.opentlc.com
         namespace: 
           title: Namespace
           type: string
