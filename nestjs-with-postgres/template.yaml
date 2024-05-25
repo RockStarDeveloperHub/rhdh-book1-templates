@@ -10,6 +10,7 @@ metadata:
     - database
     - postgresql
     - book
+    - summit
 spec:
   owner: rhdh-idp-book-authors
   type: service
@@ -29,7 +30,6 @@ spec:
             - production
             - qa
             - test
-            - RockStarDeveloperHub
         description:
           title: Description
           type: string
