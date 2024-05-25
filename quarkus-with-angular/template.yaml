@@ -7,7 +7,7 @@ metadata:
   tags:
     - java
     - quarkus
-    - aws-summit
+    - aws-summi
     - angular
     - book
 spec:
@@ -42,7 +42,7 @@ spec:
           title: Cluster Id
           type: string
           description: Id of the cluster
-          default: apps.cluster-gxmxq.sandbox92.opentlc.com
+          default: apps.rosa.dubai01.2ew4.p3.openshiftapps.com
         namespace: 
           title: Namespace
           type: string
